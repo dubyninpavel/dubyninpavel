@@ -26,5 +26,4 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ## ⚡ Stats ⚡
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubyninpavel&theme=cobalt&show_icons=true)](https://github.com/dubyninpavel/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubyninpavel)](https://github.com/dubyninpavel/github-readme-stats)
